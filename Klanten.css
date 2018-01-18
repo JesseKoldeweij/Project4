@@ -19,7 +19,9 @@ h1{
 h3{
 	font-size:15pt;
 }
-	
+a{
+text-decoration: none;
+}
 
 #nav{
 	padding:10px;
@@ -70,5 +72,17 @@ h2{
 p{
 	font-size:20pt;
 	color:white;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color: black;
 }
 
