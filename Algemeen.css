@@ -1,0 +1,74 @@
+body{
+	width: 100%;
+	margin: 0 auto; 
+	text-align: center;
+	background-color:#778899;
+	
+}
+#content {
+	overflow: auto ;
+
+}
+
+h1{
+	font-size:55pt;
+	font-family:Haettenschweiler;
+	margin-bottom:0%;
+}
+
+h3{
+	font-size:15pt;
+}
+	
+
+#nav{
+	padding:10px;
+	background-color: #B0C4DE;
+	margin-bottom:0%;
+	border-style:solid;
+	border-color: white;
+	border-width: 5px 0px 5px 0px;
+	
+}
+#feature {
+	margin: 1%;
+}
+#footer {
+	background-color: Transparent;
+	padding:0px;
+	border-style:solid;
+	border-color: white;
+	border-width: 5px 0px 5px 0px;
+	
+}
+
+li{
+	display: inline;
+	padding: 4em;
+	border-style:solid;
+	border-color: white;
+	border-width: 0px 5px 0px 5px;
+	padding:5px;
+	margin:30px;
+}
+#Etalage{
+	height: 45em;
+	width: 65%;
+	margin-left:17em;
+	border-style:solid;
+	border-color: white;
+	border-width: 0px 5px 0px 5px;
+	padding:5px;
+	background-color:#778899;
+}
+h2{
+	font-size:20pt;
+	color:white;
+}
+p{
+	font-size:20pt;
+	color:white;
+}
+img{
+	background-color:#778899;
+	}

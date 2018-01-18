@@ -1,0 +1,106 @@
+body{
+	width: 100%;
+	margin: 0 auto; 
+	text-align: center;
+	background-color:#778899;
+	
+}
+#content {
+	overflow: auto ;
+
+}
+
+h1{
+	font-size:55pt;
+	font-family:Haettenschweiler;
+	margin-bottom:0%;
+}
+
+h3{
+	font-size:15pt;
+}
+h2{
+	font-size:20pt;
+	color:white;
+}
+	
+
+#nav{
+	padding:10px;
+	background-color: #B0C4DE;
+	margin-bottom:0%;
+	border-style:solid;
+	border-color: white;
+	border-width: 5px 0px 5px 0px;
+	}
+#feature {
+	margin: 1%;
+}
+#footer {
+	background-color: Transparent;
+	padding:0px;
+	border-style:solid;
+	border-color: white;
+	border-width: 5px 0px 5px 0px;
+}
+
+li{
+	display: inline;
+	padding: 4em;
+	border-style:solid;
+	border-color: white;
+	border-width: 0px 5px 0px 5px;
+	padding:5px;
+	margin:30px;
+}
+#Etalage{
+	height: 45em;
+	width: 65%;
+	margin-left:17em;
+	border-style:solid;
+	border-color: white;
+	border-width: 0px 5px 0px 5px;
+	padding:5px;
+	background-color:#778899;
+	text-align: center;
+}
+p{
+	font-size:20pt;
+}
+img{
+	background-color:#778899;
+	}
+input[type=text], select, textarea {
+	text-align:center;
+    width: 90%;
+    border: 0px 0px 0px 0px;
+    border-radius: 4px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+	margin-left: 16px;
+	background-color:transparent;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+	
+}
+
+.container {
+	text-align:center;
+    background-color: #B0C4DE;
+	width:52%;
+	margin-left:25%;
+	border-radius:5px;
+	height:400px;
+}
